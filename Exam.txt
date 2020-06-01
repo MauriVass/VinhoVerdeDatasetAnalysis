@@ -1,0 +1,12 @@
+https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29
+
+https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+
+https://ru.coursera.org/lecture/python-data-processing/4-2-extension-classification-of-red-wine-data-based-on-random-forest-model-riXIU
+https://towardsdatascience.com/secrets-of-vinho-verde-36a248193d83
+
+#Nice analysis
+https://rpubs.com/Daria/57835
+
+#Different discussion
+https://www.kaggle.com/rajyellow46/wine-quality/kernels
