@@ -8,5 +8,7 @@ https://towardsdatascience.com/secrets-of-vinho-verde-36a248193d83
 #Nice analysis
 https://rpubs.com/Daria/57835
 
-#Different discussion
+#Different discussions
 https://www.kaggle.com/rajyellow46/wine-quality/kernels
+
+Multicollinearity can adversely affect generalized linear models, such as logistic regression. It occurs when there are high correlations between variables, resulting in unstable estimates of regression coefficients. However, if you are planning to use a Decision Tree for your predictor, then you need not need to worry about this.
